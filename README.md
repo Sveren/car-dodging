@@ -5,7 +5,7 @@ Ngô Minh Giang - MSV: 24022782
 
 .Đây là 1 tựa game có phần giống với trò chơi né xe ngày xưa, khi chúng ta phải liên tục né những vật cản trên đường nhưng cũng đồng thời phải ghi điểm và đạt điểm cao nhất.
 
-*Hướng dẫn:
+* Hướng dẫn:
 
 .Di chuyển 2 xe theo hàng khác nhau để dogde Ô VUÔNG và ăn Ô TRÒN để kiếm điểm
 . Cách chơi:
@@ -19,7 +19,7 @@ Ngô Minh Giang - MSV: 24022782
 . Enter/Space: Phát/Phát lại/Tạm dừng/Tiếp tục
 . Esc: Thoát
 
-*Ngưỡng điểm: 8.0;
+* Ngưỡng điểm: 8.0;
 .Đạt tiêu chuẩn cho game có 1 đồ hoạ đơn giản
 .Âm thanh tự lọc và chỉnh sửa
 .Lấy cơ sở từ code đã học và phát triển thêm
