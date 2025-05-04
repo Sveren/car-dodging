@@ -1,4 +1,4 @@
-﻿#include<SDL.h>
+#include<SDL.h>
 #include <SDL_image.h>
 #include <SDL_ttf.h>
 #include <SDL_mixer.h>
@@ -677,7 +677,7 @@ bool loadAudio()
     }
     mPause = Mix_LoadWAV("sound/Pause.mp3");
 
-    mBackgroundMusic = Mix_LoadMUS("sound/backgroundMusic.wav");
+    mBackgroundMusic = Mix_LoadMUS("sound/backgroundMusic.mp3");
     if (mBackgroundMusic == NULL)
     {
         printf("Failed to load background music! SDL_mixer Error: %s\n", Mix_GetError());
