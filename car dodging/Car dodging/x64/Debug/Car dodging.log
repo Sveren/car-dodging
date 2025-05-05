@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\Giang\source\repos\Car dodging\Car dodging\main.cpp(828,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Car dodging.vcxproj -> C:\Users\Giang\source\repos\Car dodging\x64\Debug\Car dodging.exe
